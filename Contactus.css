@@ -10,11 +10,12 @@ body {
 
 h2 {
     text-align:center;
-    color:blue
+    color:blue;
+    background-color:black;
 }
 
 li {
     color:deepskyblue;
-    background-color:black
+    
     
 }
